@@ -52,8 +52,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZwaGtjdXZ5aG96ZmduanJuYmk0dnYxNnh2N3gwYmhicDdnZ2h3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z7F2XVP32pca27rcS2/giphy.gif"/>
-</div>
+![pixel_animation-ezgif com-crop](https://github.com/user-attachments/assets/c1823bee-8696-4d37-bc9c-5b9c0915e716)
 
 ###
