@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am currently a Third year AI student at Cairo University (FCAI-CU).</h3>
+<h3 align="left">I am currently a Fourth year AI student at Cairo University (FCAI-CU).</h3>
 
 ###
 
